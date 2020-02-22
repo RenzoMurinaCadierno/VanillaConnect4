@@ -1,0 +1,19 @@
+/* button shaping to make them look like chip holders */
+button {
+  margin: .5px;
+  width: 70px;
+  height: 70px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  border: 5px solid black;
+}
+
+/* sticks both jumbotron visible divs together */
+.d-block {
+  margin: 0;
+}
+
+/* separates the table from those 2 divs */
+table {
+  margin-top: 7px;
+}
